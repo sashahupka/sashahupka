@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sashahupka!
+- 👀 I’m a journalist interested in politics, people and technology. You can see some of my coding projects here!
+- 🌱 I’m currently sharpening my Python skills and learning R.
+- 📫 You can reach me on Twitter (@SashaHupka), Instagram (@sashahupkasnaps) or on my website (www.sashahupka.com).
